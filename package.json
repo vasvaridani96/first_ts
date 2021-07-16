@@ -1,0 +1,21 @@
+{
+  "name": "e-learning-notes",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.2",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.6",
+    "tsify": "^5.0.4"
+  },
+  "description": ""
+}
